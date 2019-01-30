@@ -1,4 +1,4 @@
-# Causal-Inference-on-UN-Peacekeeping
+# Causal Inference on/of United Nations' Peacekeeping Operations
 
 An assignment for my class in applied statistical inference (that I took during the fall of 2018). **Got very good grades for this one, so I'm uploading it here.**
 
